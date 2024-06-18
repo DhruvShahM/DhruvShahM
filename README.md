@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DhruvShahM.DhruvShahM" />
 
 <h1 align="center">
      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhruv+Shah!;" />
@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a ascendion company**
  
  🌱 I’m currently learning **Golang, Java, SystemDesign Concepts **
 
-💬 Ask me about **Node.js, React, Typescript... or anything [here](https://github.com/DhruvShahM/Protfolio/issues)**
+💬 Ask me about **Angular, JavaScript, Typescript... or anything [here](https://github.com/DhruvShahM/DhruvShahM/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: The cloaks of the Night's Watch in Game of Thrones were crafted from IKEA rugs**
 
  </div>
  
